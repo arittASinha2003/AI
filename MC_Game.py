@@ -47,9 +47,8 @@ try:
       break
 
     if((rM + rC) == 6):
-      print("You won the game : \n\tCongrats")
-      print("Total Attempt")
-      print(k)
+      print("You won the game, Congrats!!")
+      print("Total Attempts: ", k)
       break
     while(True):
       print("Right Side -> Left Side River Travel")
